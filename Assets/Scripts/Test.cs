@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    public Vector3 TESTVECTOR;
     public Vector3 TESTVECTOR2;
     void Start()
     {
