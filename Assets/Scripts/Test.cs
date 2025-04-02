@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    public Vector3 TESTVECTOR2;
+  public Vector3 TT3;
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         
